@@ -1,0 +1,2 @@
+insert into question10 (first_name, last_name, email, gender, title, age, address, city, state, postalcode, phone)
+values  ('Chunyao', 'Liu', 'blabla@gmail.com' ,'Female', 'Student', 20, 'Dawn Castle', 'Seattle', 'Washington', '98267', 206-844-6098);
